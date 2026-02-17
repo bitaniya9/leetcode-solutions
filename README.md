@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/bitaniya9/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/bitaniya9/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/bitaniya9/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
@@ -29,9 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/bitaniya9/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/bitaniya9/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/bitaniya9/leetcode-solutions/tree/master/0645-set-mismatch) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/bitaniya9/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
