@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bitaniya9/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bitaniya9/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/bitaniya9/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/bitaniya9/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bitaniya9/leetcode-solutions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/bitaniya9/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/bitaniya9/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
