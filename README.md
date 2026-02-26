@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bitaniya9/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/bitaniya9/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/bitaniya9/leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1550-three-consecutive-odds](https://github.com/bitaniya9/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1929-concatenation-of-array](https://github.com/bitaniya9/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
