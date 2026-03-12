@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bitaniya9/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/bitaniya9/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/bitaniya9/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/bitaniya9/leetcode-solutions/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/bitaniya9/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/bitaniya9/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bitaniya9/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/bitaniya9/leetcode-solutions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/bitaniya9/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/bitaniya9/leetcode-solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/bitaniya9/leetcode-solutions/tree/master/0645-set-mismatch) |
