@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/bitaniya9/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/bitaniya9/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/bitaniya9/leetcode-solutions/tree/master/0697-degree-of-an-array) |
+| [0819-most-common-word](https://github.com/bitaniya9/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bitaniya9/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/bitaniya9/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/bitaniya9/leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/bitaniya9/leetcode-solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/bitaniya9/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/bitaniya9/leetcode-solutions/tree/master/0697-degree-of-an-array) |
+| [0819-most-common-word](https://github.com/bitaniya9/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bitaniya9/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/bitaniya9/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bitaniya9/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/bitaniya9/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0819-most-common-word](https://github.com/bitaniya9/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1528-shuffle-string](https://github.com/bitaniya9/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/bitaniya9/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bitaniya9/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/bitaniya9/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bitaniya9/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/bitaniya9/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/bitaniya9/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
